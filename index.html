@@ -731,18 +731,24 @@
     <script>
         function sendWhatsApp(event) {
             event.preventDefault();
+
             let name = document.getElementById("name").value;
             let email = document.getElementById("email").value;
             let message = document.getElementById("message").value;
 
             let phone = "917909598918";
 
-            let url = `https://wa.me/${phone}?text=👤 Name: ${encodeURIComponent(name)}
-📧 Email: ${encodeURIComponent(email)}
-💬 Message: ${encodeURIComponent(message)}`;
+            let url = `https://wa.me/${phone}?text=
+*📩 New Inquiry from Your Portfolio*
+
+👤 *Name:* ${encodeURIComponent(name)}
+📧 *Email:* ${encodeURIComponent(email)}
+💬 *Message:* 
+${encodeURIComponent(message)}`;
 
             window.open(url, "_blank");
         }
+
 
         const menuBtn = document.getElementById('mobile-menu-btn');
         const mobileMenu = document.getElementById('mobile-menu');
