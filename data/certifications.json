@@ -1,0 +1,70 @@
+{
+  "certifications": [
+    {
+      "name": "AutoCAD Professional Certification",
+      "issuer": "Autodesk",
+      "date": "March 2023",
+      "credentialId": "ACP-2023-CE-001",
+      "status": "Active",
+      "description": "Advanced proficiency in 2D drafting and 3D modeling using AutoCAD"
+    },
+    {
+      "name": "STAAD Pro Advanced Analysis",
+      "issuer": "Bentley Systems",
+      "date": "June 2023",
+      "credentialId": "STAAD-ADV-2023-456",
+      "status": "Active",
+      "description": "Structural analysis and design using STAAD Pro software"
+    },
+    {
+      "name": "Revit Architecture Professional",
+      "issuer": "Autodesk",
+      "date": "September 2023",
+      "credentialId": "RAP-2023-789",
+      "status": "Active",
+      "description": "Building Information Modeling (BIM) using Autodesk Revit"
+    },
+    {
+      "name": "Primavera P6 Project Management",
+      "issuer": "Oracle",
+      "date": "January 2024",
+      "credentialId": "P6-PM-2024-123",
+      "status": "Active",
+      "description": "Project scheduling and resource management using Primavera P6"
+    },
+    {
+      "name": "OSHA 30-Hour Construction Safety",
+      "issuer": "OSHA",
+      "date": "November 2023",
+      "credentialId": "OSHA-30-2023-567",
+      "status": "Active",
+      "description": "Comprehensive construction safety training and hazard recognition"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Dean's List Recognition",
+      "organization": "State University of Engineering",
+      "date": "2022-2024",
+      "description": "Consistent academic excellence with CGPA above 8.0 for four consecutive semesters"
+    },
+    {
+      "title": "Best Project Award",
+      "organization": "National Civil Engineering Conference",
+      "date": "April 2024",
+      "description": "Recognition for innovative bridge design project incorporating sustainable materials"
+    },
+    {
+      "title": "Merit Scholarship",
+      "organization": "State Engineering Board",
+      "date": "2021-2024",
+      "description": "Academic merit scholarship covering 50% tuition fees for outstanding performance"
+    },
+    {
+      "title": "Student Chapter President",
+      "organization": "ASCE Student Chapter",
+      "date": "2023-2024",
+      "description": "Led student activities and organized technical workshops for 200+ members"
+    }
+  ]
+}

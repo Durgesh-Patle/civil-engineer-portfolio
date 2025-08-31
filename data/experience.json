@@ -1,0 +1,28 @@
+{
+  "experience": [
+    {
+      "role": "Civil Engineering Intern",
+      "company": "Metropolitan Construction Group",
+      "duration": "June 2023 - August 2023",
+      "location": "New York, NY",
+      "responsibilities": [
+        "Assisted in structural analysis and design using STAAD Pro and AutoCAD",
+        "Conducted site inspections and quality control assessments",
+        "Prepared technical reports and documentation for ongoing projects",
+        "Collaborated with senior engineers on highway pavement design projects"
+      ]
+    },
+    {
+      "role": "Junior Site Engineer",
+      "company": "Urban Infrastructure Solutions",
+      "duration": "September 2023 - Present",
+      "location": "New York, NY",
+      "responsibilities": [
+        "Supervise construction activities and ensure compliance with safety standards",
+        "Coordinate with contractors and subcontractors for project execution",
+        "Perform quantity surveying and cost estimation for residential projects",
+        "Utilize Civil 3D for water supply and drainage system design"
+      ]
+    }
+  ]
+}

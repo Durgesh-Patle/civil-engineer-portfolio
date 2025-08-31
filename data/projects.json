@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Residential Building Design Project",
+      "description": "Complete structural design and analysis of a 15-story residential complex including foundation design, beam-column analysis, and seismic considerations. The project involved detailed architectural planning and structural optimization.",
+      "tools": ["AutoCAD", "STAAD Pro", "MS Excel", "Revit"],
+      "category": "Structural Design",
+      "duration": "6 months",
+      "status": "Completed",
+      "highlights": [
+        "Designed foundation for 15-story structure",
+        "Performed seismic analysis and wind load calculations",
+        "Optimized structural elements for cost efficiency",
+        "Created detailed construction drawings"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Highway Pavement Design",
+      "description": "Design and analysis of flexible pavement for a 25km highway section following IRC guidelines. Included comprehensive soil testing, traffic analysis, and pavement thickness design with consideration for local climate conditions.",
+      "tools": ["AutoCAD Civil 3D", "MS Excel", "IRC Guidelines", "Soil Testing Equipment"],
+      "category": "Transportation Engineering",
+      "duration": "4 months",
+      "status": "Completed",
+      "highlights": [
+        "Conducted extensive soil testing and analysis",
+        "Performed traffic volume studies",
+        "Designed pavement layers per IRC standards",
+        "Created detailed cross-sectional drawings"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bridge Construction Model",
+      "description": "3D modeling and structural analysis of a 200m span cable-stayed bridge including dynamic analysis, construction sequencing, and detailed connection design. The project emphasized innovative construction techniques and sustainability.",
+      "tools": ["Revit", "ETABS", "AutoCAD", "3D Modeling Software"],
+      "category": "Bridge Engineering",
+      "duration": "8 months",
+      "status": "Completed",
+      "highlights": [
+        "Created detailed 3D BIM model",
+        "Performed dynamic and seismic analysis",
+        "Designed cable-stay system",
+        "Developed construction sequence plan"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Water Supply & Drainage System",
+      "description": "Comprehensive design of water supply and stormwater drainage system for a residential township covering 500 acres. Included hydraulic analysis, pipe network design, and treatment plant specifications.",
+      "tools": ["AutoCAD Civil 3D", "HEC-RAS", "EPANET", "GIS"],
+      "category": "Water Resources",
+      "duration": "5 months",
+      "status": "Completed",
+      "highlights": [
+        "Designed complete water distribution network",
+        "Performed hydraulic modeling and analysis",
+        "Created stormwater management system",
+        "Integrated GIS mapping for asset management"
+      ]
+    }
+  ]
+}
